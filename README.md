@@ -29,4 +29,13 @@ Si bien es un numero limitado de armamento, tambien podra utilizar consumibles q
   
   El juego contara con 3 niveles actualmente, con sus respectivo menu de inicio, pausa, seleccion de nivel, opciones para ajustes, etc.
   
+  4. Compatibilidad.
+  
+  Para poder ejecutar el juego es necesario como minimo estos requerimientos:
+  
+  - Procesador Intel Celeron / AMD Equivalente.
+  - 1GB RAM
+  - Al menos 200 MB de espacio disponible
+  - Placa de Video Integrada o Dedicada con soporte para OpenGL 2.0
+  
   Este leeme estara disponible directamente desde GitHub, y tambien para descarga, junto con el resto de la documentacion.
