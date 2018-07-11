@@ -1,5 +1,6 @@
 # Fury
 Proyecto de Desarrollo de Juego para Metodologia de la Investigacion UTN FRM
+
 Autor: Jonathan Torrico
 
 1. Introduccion General del Juego.
