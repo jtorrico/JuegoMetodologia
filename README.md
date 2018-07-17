@@ -39,4 +39,12 @@ Si bien es un numero limitado de armamento, tambien podra utilizar consumibles q
   - Al menos 200 MB de espacio disponible
   - Placa de Video Integrada o Dedicada con soporte para OpenGL 2.0
   
+  Este software ha sido testado y ejecutado sin problemas en el siguiente hardware:
+  
+  - Para Windows (32 bits):
+  
+  - Procesador Intel Celeron 1.4Ghz
+  - 1 Gb RAM
+  - Placa de Video Intel HD Integrada
+  
   Este leeme estara disponible directamente desde GitHub, y tambien para descarga, junto con el resto de la documentacion.
