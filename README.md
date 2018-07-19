@@ -41,10 +41,16 @@ Si bien es un numero limitado de armamento, tambien podra utilizar consumibles q
   
   Este software ha sido testado y ejecutado sin problemas en el siguiente hardware:
   
-  - Para Windows (32 bits):
+  En Windows (32 bits):
   
   - Procesador Intel Celeron 1.4Ghz
-  - 1 Gb RAM
+  - 1 GB RAM
   - Placa de Video Intel HD Integrada
+  
+  En Linux (Ubuntu 16.04 LTS 32 bits)
+  
+  - Procesador Pentium Dual Core T4500 2.30Ghz
+  - 2 GB RAM
+  - Placa de Video AMD RV710 Dedicada
   
   Este leeme estara disponible directamente desde GitHub, y tambien para descarga, junto con el resto de la documentacion.
