@@ -1,5 +1,6 @@
 # Fury
 Proyecto de Desarrollo de Juego para Metodologia de la Investigacion UTN FRM
+
 Autor: Jonathan Torrico
 
 1. Introduccion General del Juego.
@@ -40,10 +41,11 @@ Si bien es un numero limitado de armamento, tambien podra utilizar consumibles q
   
   Este software ha sido testado y ejecutado sin problemas en el siguiente hardware:
   
+
   En Windows XP (32 bits):
   
   - Procesador Intel Celeron 1.4Ghz
-  - 1 Gb RAM
+  - 1 GB RAM
   - Placa de Video Intel HD Integrada
   
   En Windows 10 (64 bits)
@@ -54,6 +56,12 @@ Si bien es un numero limitado de armamento, tambien podra utilizar consumibles q
   
   En Linux (Ubuntu 16.04 LTS 32 bits)
 
+  - Procesador Pentium Dual Core T4500 2.30Ghz
+  - 2 GB RAM
+  - Placa de Video AMD RV710 Dedicada
+  
+  En Linux (Ubuntu 16.04 LTS 32 bits)
+  
   - Procesador Pentium Dual Core T4500 2.30Ghz
   - 2 GB RAM
   - Placa de Video AMD RV710 Dedicada
