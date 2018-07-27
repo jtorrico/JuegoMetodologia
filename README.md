@@ -59,11 +59,5 @@ Si bien es un numero limitado de armamento, tambien podra utilizar consumibles q
   - Procesador Pentium Dual Core T4500 2.30Ghz
   - 2 GB RAM
   - Placa de Video AMD RV710 Dedicada
-  
-  En Linux (Ubuntu 16.04 LTS 32 bits)
-  
-  - Procesador Pentium Dual Core T4500 2.30Ghz
-  - 2 GB RAM
-  - Placa de Video AMD RV710 Dedicada
 
   Este leeme estara disponible directamente desde GitHub, y tambien para descarga, junto con el resto de la documentacion.
